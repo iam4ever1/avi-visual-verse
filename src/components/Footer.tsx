@@ -14,7 +14,7 @@ const Footer = () => {
         <div className="grid md:grid-cols-3 gap-8 items-center">
           {/* Brand */}
           <div className="space-y-4">
-            <h3 className="text-2xl font-bold gradient-text">Bryan</h3>
+            <h3 className="text-2xl font-bold gradient-text">Avi Vikram Singh</h3>
             <p className="text-muted-foreground">
               Crafting compelling visual narratives through design.
             </p>
@@ -64,7 +64,7 @@ const Footer = () => {
 
         <div className="border-t border-border/50 mt-12 pt-8 flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
           <div className="flex items-center space-x-2 text-sm text-muted-foreground">
-            <span>© {currentYear} Bryan. Made with</span>
+            <span>© {currentYear} Avi Vikram Singh. Made with</span>
             <Heart className="w-4 h-4 text-red-500 fill-current" />
             <span>and passion for design</span>
           </div>

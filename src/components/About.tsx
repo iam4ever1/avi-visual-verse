@@ -47,13 +47,13 @@ const About = () => {
               <h3 className="text-2xl font-bold mb-6 gradient-text">Personal Bio</h3>
               <div className="space-y-4 text-muted-foreground leading-relaxed">
                 <p>
-                  Bryan is a passionate and dedicated Graphic Designer with over a year of experience 
+                  Avi Vikram Singh is a passionate and dedicated Graphic Designer with over a year of experience 
                   in branding and advertising. He brings concepts to life using Adobe Creative Suite 
                   and Canva, always striving to exceed brand goals with innovative design.
                 </p>
                 <p>
                   With a strong foundation in visual arts and a collaborative approach to design, 
-                  Bryan creates compelling visual narratives that resonate with audiences and 
+                  Avi creates compelling visual narratives that resonate with audiences and 
                   drive business results.
                 </p>
               </div>

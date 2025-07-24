@@ -26,7 +26,7 @@ const Navigation = () => {
       <div className="max-w-7xl mx-auto px-6 md:px-12 lg:px-24">
         <div className="flex items-center justify-between h-16">
           <div className="text-xl font-bold gradient-text">
-            Bryan
+            Avi Vikram Singh
           </div>
           
           <div className="hidden md:flex items-center space-x-8">
